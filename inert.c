@@ -10,5 +10,5 @@ void strange(void){
 void newbie(void){
 
 	printf("newage\n");
-
+	printf("not so new\n");
 }
