@@ -8,5 +8,6 @@ void printer(void);
 
 void strange(void);
 
+void newbie(void);
 
 #endif

@@ -6,6 +6,7 @@ int main() {
     printf("Hello world\n");
     printer();
     strange();
+    newbie();
 
     return 0;
 }
