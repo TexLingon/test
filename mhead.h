@@ -6,5 +6,7 @@
 
 void printer(void);
 
+void strange(void);
+
 
 #endif
