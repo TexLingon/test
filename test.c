@@ -5,6 +5,7 @@
 int main() {
     printf("Hello world\n");
     printer();
+    strange();
 
     return 0;
 }
